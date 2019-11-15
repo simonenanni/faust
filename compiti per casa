@@ -1,0 +1,5 @@
+// scrivi un programma che abbia 16 entrate 4 uscite con ampiezza normalizzata.
+delle 4 uscite la due el quattro devono avere fase inversa
+
+
+process =si.bus(16):>_/(4),_/(4),/(4),/(4);
